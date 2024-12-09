@@ -1,7 +1,7 @@
 # bmp2x (bmp2img and bmp2h)
 
-![GitHub License](https://img.shields.io/github/license/sleepy-dave/bmp2x)
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
+![GitHub License](https://img.shields.io/github/license/sleepy-dave/bmp2x?style=for-the-badge)
+![Python Version](https://img.shields.io/badge/python-3.7%2B-blue?style=for-the-badge)
 
 ## Got a Bitmap-Array but no clue how to convert it? This Repo got you covered!
 
